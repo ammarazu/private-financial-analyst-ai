@@ -38,6 +38,5 @@ A fully secure AI system that reads financial documents and answers questions wi
 ## 👩‍💻 Built By
 
 **Hafiza Umme Ammara** — AI Security Engineer
-- 🌐 [sekurely.io](https://sekurely.io)
 - 💼 [LinkedIn](https://linkedin.com/in/hafiza-umme-a-92a679222)
 - 📧 Noufal Digital Ltd
