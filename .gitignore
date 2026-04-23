@@ -1,0 +1,16 @@
+# Terraform
+infrastructure/terraform/.terraform/
+infrastructure/terraform/terraform.tfstate
+infrastructure/terraform/terraform.tfstate.backup
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# ChromaDB
+infrastructure/chroma_db/
+
+# Environment
+.env
