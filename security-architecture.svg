@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="700" font-family="Arial">
+  <rect width="500" height="700" fill="#f8f9fa"/>
+  <text x="250" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#1a1a2e">🔐 Security Architecture</text>
+  
+  <rect x="150" y="50" width="200" height="40" rx="8" fill="#dae8fc" stroke="#6c8ebf"/>
+  <text x="250" y="75" text-anchor="middle" font-size="13">👤 User Input</text>
+  
+  <line x1="250" y1="90" x2="250" y2="110" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="150" y="110" width="200" height="40" rx="8" fill="#f8cecc" stroke="#b85450"/>
+  <text x="250" y="135" text-anchor="middle" font-size="13">🛡️ Prompt Guard 95%</text>
+
+  <line x1="250" y1="150" x2="250" y2="170" stroke="#333" stroke-width="2"/>
+  <rect x="150" y="170" width="200" height="40" rx="8" fill="#fff2cc" stroke="#d6b656"/>
+  <text x="250" y="195" text-anchor="middle" font-size="13">🔒 PII Stripper</text>
+
+  <line x1="250" y1="210" x2="250" y2="230" stroke="#333" stroke-width="2"/>
+  <rect x="150" y="230" width="200" height="40" rx="8" fill="#d5e8d4" stroke="#82b366"/>
+  <text x="250" y="255" text-anchor="middle" font-size="13">🔍 ChromaDB Search</text>
+
+  <line x1="250" y1="270" x2="250" y2="290" stroke="#333" stroke-width="2"/>
+  <rect x="150" y="290" width="200" height="40" rx="8" fill="#e1d5e7" stroke="#9673a6"/>
+  <text x="250" y="315" text-anchor="middle" font-size="13">🎯 Cohere Reranker</text>
+
+  <line x1="250" y1="330" x2="250" y2="350" stroke="#333" stroke-width="2"/>
+  <rect x="150" y="350" width="200" height="40" rx="8" fill="#dae8fc" stroke="#6c8ebf"/>
+  <text x="250" y="375" text-anchor="middle" font-size="13">🤖 GPT-4o-mini</text>
+
+  <line x1="250" y1="390" x2="250" y2="410" stroke="#333" stroke-width="2"/>
+  <rect x="150" y="410" width="200" height="40" rx="8" fill="#f8cecc" stroke="#b85450"/>
+  <text x="250" y="435" text-anchor="middle" font-size="13">🔍 Output Scanner</text>
+
+  <line x1="250" y1="450" x2="250" y2="470" stroke="#333" stroke-width="2"/>
+  <rect x="150" y="470" width="200" height="40" rx="8" fill="#fff2cc" stroke="#d6b656"/>
+  <text x="250" y="495" text-anchor="middle" font-size="13">📊 Langfuse Logger</text>
+
+  <line x1="250" y1="510" x2="250" y2="530" stroke="#333" stroke-width="2"/>
+  <rect x="150" y="530" width="200" height="40" rx="8" fill="#d5e8d4" stroke="#82b366"/>
+  <text x="250" y="555" text-anchor="middle" font-size="13">✅ Safe Response</text>
+</svg>
